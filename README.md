@@ -1,175 +1,182 @@
-# <h1 align="center">Hi 👋, I'm <b>Sivasangar C</b></h1>
-
-<h3 align="center">
-AI Engineer • Full-Stack Developer • Software Engineer
-</h3>
+````html
+<!-- ========================= BANNER ========================= -->
 
 <p align="center">
-Building intelligent software using AI, scalable backend systems, and modern web technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e3a8a,60:2563eb,100:38bdf8&text=Sivasangar%20C&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=58"/>
+</p>
+
+<!-- ========================= TYPING ========================= -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full-Stack+Software+Engineer;Spring+Boot+%7C+React+%7C+Python;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Cloud+Native+Applications"/>
 </p>
 
 ---
 
-## 💡 Engineering Philosophy
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-I believe software should do more than work—it should **understand, automate, and improve human workflows**.
+<img align="right" width="360"
+src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
 
-My interests lie at the intersection of **Artificial Intelligence**, **Software Engineering**, and **Cloud-Native Development**, where I build solutions that combine intelligent decision-making with scalable architecture.
+I'm a Computer Science Engineering student passionate about building intelligent software that combines Artificial Intelligence with scalable backend systems.
 
----
+🔹 AI Applications
 
-# 🚀 What I'm Building
+🔹 Multi-Agent Systems
 
-### 🤖 AI Systems
+🔹 Spring Boot Development
 
-* Multi-Agent AI Applications
-* Retrieval-Augmented Generation (RAG)
-* AI Workflow Automation
-* LLM Integrations
-* Prompt Engineering
-* AI Security Analysis
-* Autonomous Decision Systems
+🔹 React Applications
 
----
+🔹 REST APIs
 
-### 🌐 Full-Stack Applications
+🔹 Software Architecture
 
-* Enterprise Web Applications
-* RESTful APIs
-* Authentication & Authorization
-* Payment Gateway Integration
-* Database Design
-* Secure Backend Architecture
-* Responsive User Interfaces
+🔹 Cloud Native Development
 
 ---
 
-### ☁️ Software Engineering
+# 🧠 AI Technology Stack
 
-* Microservices Architecture
-* Cloud-Native Applications
-* Docker
-* API Development
-* Clean Architecture
-* Design Patterns
-* Scalable System Design
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,postgres,mysql,docker,git,github,vscode"/>
+
+</p>
 
 ---
 
-# 🧠 Core Technologies
+# ⚙ AI Ecosystem
 
-| Domain                  | Technologies                                                                  |
-| ----------------------- | ----------------------------------------------------------------------------- |
-| Languages               | Java • Python • JavaScript • SQL                                              |
-| Backend                 | Spring Boot • Spring MVC • Hibernate • JPA • JDBC • REST APIs                 |
-| Frontend                | React • HTML5 • CSS3 • Bootstrap                                              |
-| Databases               | PostgreSQL • MySQL • SQLite                                                   |
-| Artificial Intelligence | LangChain • RAG • Multi-Agent Systems • LLM Applications • Prompt Engineering |
-| Tools                   | Git • GitHub • VS Code • Eclipse • Postman                                    |
-| Learning                | Docker • Kubernetes • AWS • CI/CD • Redis                                     |
+<table>
 
----
+<tr>
 
-# ⚡ Featured Engineering Projects
+<td align="center" width="180">
 
-## 🛒 Enterprise E-Commerce Platform
+<img width="70" src="https://cdn.simpleicons.org/openai/ffffff"/>
 
-**Technology Stack**
+<br>
 
-Spring Boot • PostgreSQL • Razorpay • JSP • REST APIs
+OpenAI
 
-### Highlights
+</td>
 
-* Secure authentication
-* Shopping cart
-* Payment integration
-* Product management
-* Order management
-* Scalable backend architecture
+<td align="center" width="180">
 
----
+<img width="70" src="https://cdn.simpleicons.org/langchain/00C853"/>
 
-## 🤖 Autonomous Multi-Agent AI Platform
+<br>
 
-Designed an intelligent orchestration system capable of delegating tasks between specialized AI agents.
+LangChain
 
-### Capabilities
+</td>
 
-* Context-aware reasoning
-* Memory management
-* Email processing
-* PDF understanding
-* JSON automation
-* LangChain workflows
-* Agent collaboration
+<td align="center" width="180">
 
----
+<img width="70" src="https://cdn.simpleicons.org/python/FFD43B"/>
 
-## 🔐 AI Security Repair Agent
+<br>
 
-An AI-powered software security assistant that analyzes source code and generates automated vulnerability fixes.
+Python
 
-### Features
+</td>
 
-* Static code analysis
-* Vulnerability detection
-* AI-generated fixes
-* Security reporting
-* OWASP-based recommendations
+<td align="center" width="180">
+
+<img width="70" src="https://cdn.simpleicons.org/docker/2496ED"/>
+
+<br>
+
+Docker
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🔬 Current Research & Exploration
+# 🚀 Current Focus
 
-* Agentic AI
-* AI Software Engineering
-* Large Language Models
-* Software Architecture
-* Distributed Systems
-* Cloud Computing
-* AI Security
-* Retrieval-Augmented Generation
-* Autonomous AI Systems
-
----
-
-# 🎯 2026 Engineering Goals
-
-* Build production-ready AI SaaS products
-* Contribute to open-source AI projects
-* Master cloud-native architecture
-* Deepen expertise in LLM engineering
-* Design scalable distributed systems
-* Participate in global hackathons
-* Publish impactful technical content
+```text
+Artificial Intelligence
+        │
+        ├──────── LLM Applications
+        │
+        ├──────── Multi-Agent Systems
+        │
+        ├──────── Retrieval-Augmented Generation
+        │
+        ├──────── AI Security
+        │
+        ├──────── Backend Engineering
+        │
+        └──────── Cloud Native Development
+````
 
 ---
 
-# 🤝 Let's Collaborate
+# ⚡ Engineering Workflow
 
-I enjoy collaborating on projects involving:
+```text
+Idea
 
-* Artificial Intelligence
-* Full-Stack Development
-* Backend Engineering
-* Developer Tools
-* Open Source
-* Software Architecture
-* Automation Platforms
+   ↓
+
+Research
+
+   ↓
+
+Architecture
+
+   ↓
+
+Backend Development
+
+   ↓
+
+AI Integration
+
+   ↓
+
+Testing
+
+   ↓
+
+Deployment
+
+   ↓
+
+Continuous Improvement
+```
 
 ---
 
-# 📬 Connect
+# 🌐 Connect
 
-📧 **Email**
-**[sivasangarc091@gmail.com](mailto:sivasangarc091@gmail.com)**
+<p align="center">
 
-💼 **LinkedIn**
-https://www.linkedin.com/in/sivasangar-c-a921b8290/
+<a href="https://github.com/techcc-cmd">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-💻 **GitHub**
-https://github.com/techcc-cmd
+<a href="https://linkedin.com/in/sivasangar-c-a921b8290">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:sivasangarc091@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
-> **"Engineering the future by combining Artificial Intelligence with scalable software systems."**
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
+
+</p>
+```
