@@ -1,219 +1,175 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Sivasangar C**
+# <h1 align="center">Hi 👋, I'm <b>Sivasangar C</b></h1>
 
-### 🚀 Computer Science Engineer • Full-Stack Developer • AI Engineer • Open Source Enthusiast
+<h3 align="center">
+AI Engineer • Full-Stack Developer • Software Engineer
+</h3>
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-Passionate about building **AI-powered applications**, scalable **Full-Stack Web Systems**, and intelligent automation solutions that solve real-world problems.
-
-I specialize in **Java, Spring Boot, React, Python, PostgreSQL, and Generative AI**, while actively exploring **LLMs, AI Agents, RAG Systems, Cloud Computing, and System Design**.
-
-I enjoy transforming innovative ideas into production-ready software and continuously improving my engineering skills through open-source contributions, hackathons, and real-world projects.
-
----
-
-# 💫 About Me
-
-🎓 Computer Science Engineering Student
-
-💻 Full-Stack Developer specializing in Java & Spring Boot
-
-🤖 AI Engineer focused on LLM Applications and Multi-Agent Systems
-
-📚 Constantly learning Distributed Systems, Cloud Computing, and DevOps
-
-🏆 Hackathon Participant & Problem Solver
-
-🌱 Currently building production-grade AI applications
-
-⚡ Goal: Become an AI Software Engineer building impactful products at global technology companies.
-
----
-
-# 🚀 Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql"/>
+<p align="center">
+Building intelligent software using AI, scalable backend systems, and modern web technologies.
 </p>
 
 ---
 
-## 🌐 Frontend
+## 💡 Engineering Philosophy
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
-</p>
+I believe software should do more than work—it should **understand, automate, and improve human workflows**.
 
----
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-</p>
-
-**Technologies**
-
-* Spring Boot
-* REST APIs
-* Hibernate
-* JPA
-* JDBC
-* Microservices (Learning)
+My interests lie at the intersection of **Artificial Intelligence**, **Software Engineering**, and **Cloud-Native Development**, where I build solutions that combine intelligent decision-making with scalable architecture.
 
 ---
 
-## 🗄️ Databases
+# 🚀 What I'm Building
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
-</p>
+### 🤖 AI Systems
 
----
-
-## 🤖 Artificial Intelligence
-
-* Generative AI
-* Large Language Models (LLMs)
-* LangChain
+* Multi-Agent AI Applications
 * Retrieval-Augmented Generation (RAG)
-* Multi-Agent Systems
+* AI Workflow Automation
+* LLM Integrations
 * Prompt Engineering
-* AI Automation
-* AI Security
-* Machine Learning
+* AI Security Analysis
+* Autonomous Decision Systems
 
 ---
 
-## ☁️ DevOps & Cloud
+### 🌐 Full-Stack Applications
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse"/>
-</p>
+* Enterprise Web Applications
+* RESTful APIs
+* Authentication & Authorization
+* Payment Gateway Integration
+* Database Design
+* Secure Backend Architecture
+* Responsive User Interfaces
 
-Currently Learning:
+---
 
+### ☁️ Software Engineering
+
+* Microservices Architecture
+* Cloud-Native Applications
 * Docker
-* Kubernetes
-* AWS
-* CI/CD
-* GitHub Actions
+* API Development
+* Clean Architecture
+* Design Patterns
+* Scalable System Design
 
 ---
 
-# ⭐ Featured Projects
+# 🧠 Core Technologies
 
-## 🛒 AI-Powered Myntra Clone
-
-A production-ready E-Commerce platform built using **Spring Boot**, **PostgreSQL**, and modern web technologies.
-
-### Features
-
-* Secure Authentication
-* Product Management
-* Shopping Cart
-* Razorpay Payment Gateway
-* Admin Dashboard
-* Order Management
-* Responsive UI
+| Domain                  | Technologies                                                                  |
+| ----------------------- | ----------------------------------------------------------------------------- |
+| Languages               | Java • Python • JavaScript • SQL                                              |
+| Backend                 | Spring Boot • Spring MVC • Hibernate • JPA • JDBC • REST APIs                 |
+| Frontend                | React • HTML5 • CSS3 • Bootstrap                                              |
+| Databases               | PostgreSQL • MySQL • SQLite                                                   |
+| Artificial Intelligence | LangChain • RAG • Multi-Agent Systems • LLM Applications • Prompt Engineering |
+| Tools                   | Git • GitHub • VS Code • Eclipse • Postman                                    |
+| Learning                | Docker • Kubernetes • AWS • CI/CD • Redis                                     |
 
 ---
 
-## 🤖 Multi-Agent Autonomous AI System
+# ⚡ Featured Engineering Projects
 
-An intelligent orchestration framework capable of routing complex tasks between specialized AI agents.
+## 🛒 Enterprise E-Commerce Platform
 
-### Modules
+**Technology Stack**
 
-* Email Agent
-* PDF Agent
-* JSON Agent
-* Memory Agent
-* Workflow Automation
-* Contextual Decision Engine
-* LangChain Integration
+Spring Boot • PostgreSQL • Razorpay • JSP • REST APIs
+
+### Highlights
+
+* Secure authentication
+* Shopping cart
+* Payment integration
+* Product management
+* Order management
+* Scalable backend architecture
+
+---
+
+## 🤖 Autonomous Multi-Agent AI Platform
+
+Designed an intelligent orchestration system capable of delegating tasks between specialized AI agents.
+
+### Capabilities
+
+* Context-aware reasoning
+* Memory management
+* Email processing
+* PDF understanding
+* JSON automation
+* LangChain workflows
+* Agent collaboration
 
 ---
 
 ## 🔐 AI Security Repair Agent
 
-An AI-powered secure coding assistant capable of:
+An AI-powered software security assistant that analyzes source code and generates automated vulnerability fixes.
 
-* Detecting vulnerabilities
-* Security risk analysis
-* Automatic code repair
+### Features
+
+* Static code analysis
+* Vulnerability detection
+* AI-generated fixes
+* Security reporting
 * OWASP-based recommendations
-* Security report generation
 
 ---
 
-# 🏆 Achievements
+# 🔬 Current Research & Exploration
 
-🏅 Python Development Internship — Oasis Infobyte
-
-🏅 Built multiple AI & Full-Stack applications
-
-🏅 Active Hackathon Participant
-
-🏅 Regular LeetCode Problem Solver
-
-🏅 Exploring Open Source Contributions
-
----
-
-# 📚 Currently Learning
-
-* Advanced Spring Boot
-* Generative AI
 * Agentic AI
-* Cloud Computing
-* Kubernetes
-* System Design
-* MLOps
+* AI Software Engineering
+* Large Language Models
 * Software Architecture
+* Distributed Systems
+* Cloud Computing
+* AI Security
+* Retrieval-Augmented Generation
+* Autonomous AI Systems
 
 ---
 
-# 📊 GitHub Stats
+# 🎯 2026 Engineering Goals
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=techcc-cmd&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techcc-cmd&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcc-cmd&layout=compact&theme=tokyonight"/>
-
-</p>
+* Build production-ready AI SaaS products
+* Contribute to open-source AI projects
+* Master cloud-native architecture
+* Deepen expertise in LLM engineering
+* Design scalable distributed systems
+* Participate in global hackathons
+* Publish impactful technical content
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Let's Collaborate
 
-<p align="left">
+I enjoy collaborating on projects involving:
 
-<a href="https://github.com/techcc-cmd">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sivasangar-c-a921b8290/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:sivasangarc091@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+* Artificial Intelligence
+* Full-Stack Development
+* Backend Engineering
+* Developer Tools
+* Open Source
+* Software Architecture
+* Automation Platforms
 
 ---
 
-# 💡 Philosophy
+# 📬 Connect
 
-> **"Great software is built by solving meaningful problems with curiosity, continuous learning, and disciplined engineering."**
+📧 **Email**
+**[sivasangarc091@gmail.com](mailto:sivasangarc091@gmail.com)**
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/sivasangar-c-a921b8290/
+
+💻 **GitHub**
+https://github.com/techcc-cmd
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories, contribute to my projects, or connect with me for collaboration on innovative software and AI solutions.**
+> **"Engineering the future by combining Artificial Intelligence with scalable software systems."**
