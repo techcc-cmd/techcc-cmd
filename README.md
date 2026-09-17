@@ -1,209 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0f172a,70:0ea5e9,100:38bdf8&text=SIVASANGAR%20C&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0a0a0a,60:111827,100:16a34a&text=SIVASANGAR%20C&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Backend%20Developer%20%C2%B7%20CSE%20Undergraduate&descAlignY=68&descSize=14"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Applications;Spring+Boot+%7C+React+Developer;LLMs+%7C+LangChain+%7C+RAG+%7C+AI+Agents;Always+Learning+New+Technologies"/>
+<br/>
+
+<a href="https://www.linkedin.com/in/sivasangar-c-a921b8290/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=22c55e"/></a>
+<a href="https://github.com/techcc-cmd"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=22c55e"/></a>
+<a href="mailto:sivasangarc091@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=22c55e"/></a>
+<img src="https://komarev.com/ghpvc/?username=techcc-cmd&style=flat-square&color=16a34a&label=Profile+Views"/>
 
 </div>
 
----
+<br/>
 
-<table>
-<tr>
+## About
 
-<td width="60%">
+Computer Science Engineering student building production-grade software at the intersection of **applied AI** and **enterprise backend systems**. I work primarily with LLM orchestration, retrieval pipelines and Spring Boot services, with an emphasis on systems that ship rather than prototypes that demo.
 
-# 🤖 About Me
-
-I'm **Sivasangar C**, a Computer Science Engineering student passionate about building intelligent software using Artificial Intelligence and modern backend technologies.
-
-### 🚀 Current Focus
-
-- 🤖 Generative AI
-- 🧠 Multi-Agent Systems
-- 🔍 Retrieval-Augmented Generation
-- ☕ Spring Boot
-- ⚛️ React
-- ☁️ Cloud Computing
-
-</td>
-
-<td align="center">
-
-<img width="320" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f4de8e8.gif"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,javascript,html,css,bootstrap,postgres,mysql,docker,git,github,vscode,postman"/>
-
-</p>
-
----
-
-# 🧠 AI Technology
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-8B5CF6?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-06B6D4?style=for-the-badge">
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 AI Multi-Agent Platform
-
-✔ LangChain
-
-✔ AI Agents
-
-✔ Context Memory
-
-✔ Workflow Automation
-
-</td>
-
-<td>
-
-<img width="280" src="https://user-images.githubusercontent.com/74038190/212744275-2c5fd45f-6d73-4e68-b220-6f2c0e6cbb4d.gif"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<img width="280" src="https://user-images.githubusercontent.com/74038190/212748683-8a65d8b5-72b0-46f8-a77b-4f3d7a847a6b.gif"/>
-
-</td>
-
-<td>
-
-## 🛒 Enterprise E-Commerce
-
-✔ Spring Boot
-
-✔ PostgreSQL
-
-✔ Razorpay
-
-✔ REST APIs
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🔐 AI Security Repair Agent
-
-✔ Vulnerability Detection
-
-✔ Automated Fixes
-
-✔ OWASP Validation
-
-✔ AI Reports
-
-</td>
-
-<td>
-
-<img width="280" src="https://user-images.githubusercontent.com/74038190/212749695-4b6b0b2c-4fd0-4d8b-a52f-93b2b5d5e6ef.gif"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌐 AI Architecture
-
-```text
-                USER
-                  │
-                  ▼
-          Web / Mobile App
-                  │
-      ┌───────────┴────────────┐
-      ▼                        ▼
- Spring Boot API         AI Assistant
-      │                        │
-      ▼                        ▼
- PostgreSQL          LangChain + RAG
-      │                        │
-      └────────────┬───────────┘
-                   ▼
-            Multi-Agent System
-                   │
-                   ▼
-            Intelligent Response
+```
+Focus       Generative AI · Multi-Agent Systems · Retrieval-Augmented Generation
+Backend     Java · Spring Boot · REST · PostgreSQL
+Frontend    React · TypeScript
+Currently   LLM evaluation pipelines, agentic workflows, cloud deployment
 ```
 
----
+<br/>
 
-# 🎯 2026 Goals
+## Technical Skills
 
-- 🚀 Build AI SaaS Products
-- 🧠 Master LLM Engineering
-- ☁️ Learn AWS & Kubernetes
-- 🌍 Contribute to Open Source
-- 🏆 Win Global AI Hackathons
+| Domain | Technologies |
+|:--|:--|
+| **AI / ML** | LangChain, LLM APIs, RAG, Vector Search, Multi-Agent Orchestration, Prompt Engineering |
+| **Backend** | Java, Spring Boot, Spring Security, REST APIs, Python |
+| **Frontend** | React, JavaScript, HTML5, CSS3, Bootstrap |
+| **Data** | PostgreSQL, MySQL |
+| **Tooling** | Docker, Git, GitHub Actions, Postman, VS Code |
 
----
+<div align="center">
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,js,postgres,mysql,docker,git,github&theme=dark"/>
+</div>
 
-# 📬 Connect
+<br/>
 
-<p align="center">
+## Selected Work
 
-<a href="https://github.com/techcc-cmd">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<a href="https://www.linkedin.com/in/sivasangar-c-a921b8290/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+### Multi-Agent AI Platform
 
-<a href="mailto:sivasangarc091@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+Orchestration layer for task-specialised agents with shared context memory and automated workflow routing.
 
-</p>
+`LangChain` `Python` `Vector DB`
 
----
+</td>
+<td width="33%" valign="top">
 
-<p align="center">
+### Enterprise E-Commerce
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:38bdf8,100:020617"/>
+Production e-commerce backend with secure auth, order lifecycle management and Razorpay payment integration.
 
-</p>
+`Spring Boot` `PostgreSQL` `REST`
+
+</td>
+<td width="33%" valign="top">
+
+### AI Security Repair Agent
+
+Scans repositories for vulnerabilities, generates patches and validates fixes against OWASP criteria.
+
+`LLMs` `Static Analysis` `OWASP`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## System Architecture
+
+```
+  Client (React)
+        │
+        ▼
+  ┌─────────────────────────────┐
+  │   Spring Boot API Gateway   │──── Auth · Rate limiting · Validation
+  └──────────────┬──────────────┘
+                 │
+        ┌────────┴────────┐
+        ▼                 ▼
+  ┌───────────┐    ┌──────────────┐
+  │PostgreSQL │    │  AI Service  │
+  └───────────┘    └──────┬───────┘
+                          │
+              ┌───────────┴───────────┐
+              ▼                       ▼
+        Retrieval (RAG)        Agent Orchestrator
+              │                       │
+              └───────────┬───────────┘
+                          ▼
+                   Response Synthesis
+```
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=techcc-cmd&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=22c55e&text_color=e5e7eb&icon_color=22c55e"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcc-cmd&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=22c55e&text_color=e5e7eb"/>
+
+<br/>
+
+<img height="150" src="https://streak-stats.demolab.com?user=techcc-cmd&hide_border=true&background=0a0a0a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=e5e7eb&sideNums=e5e7eb"/>
+
+</div>
+
+<br/>
+
+## Current Objectives
+
+- Ship a production AI SaaS product end to end
+- Deepen LLM engineering: evaluation, fine-tuning, cost and latency optimisation
+- AWS and Kubernetes for scalable deployment
+- Sustained open-source contribution
+
+<br/>
+
+<div align="center">
+
+<sub>Open to internships, collaboration and open-source work.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a0a0a,50:16a34a,100:0a0a0a"/>
+
+</div>
