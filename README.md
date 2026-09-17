@@ -180,9 +180,7 @@ Full-stack trading platform with real-time price simulation, portfolio analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/techcc-cmd/techcc-cmd/output/snake.svg" alt="snake animation"/>
-
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techcc-cmd&bg_color=0a0a0a&color=e5e7eb&line=22c55e&point=16a34a&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:16a34a,100:0a0a0a"/>
 
